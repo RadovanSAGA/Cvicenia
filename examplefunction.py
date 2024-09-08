@@ -411,5 +411,3 @@ print(bool(value))
 value = 10
 print(bool(value))
 
-## Ideme na to
-        
